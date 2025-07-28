@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/db/md/digital-garden-test-home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/db/md/digital-garden-test-home-page/"}
 ---
 
 
-This is a test!!! -Sean
+This is a test!!! -Sean This shoudl be off now
