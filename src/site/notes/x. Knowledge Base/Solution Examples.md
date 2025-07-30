@@ -25,7 +25,8 @@
 
 ## Pro Solutions
 
-- “set up remote printing from over the internet"
+- Solutions that are tailored to your specific workflow, and not just designed for the general public
+- “set up remote access for network devices such as printers, cameras, media servers, etc."
 - “configure custom domain, email address, and hosting”
 - “set up public endpoint for NAS to be accessible over the internet publicly, i.e. `nas.companyserver.com`, better for many-to-one data global transfers, rather than a pre-defined group of computers”
 - “automated syncing between two computers”
