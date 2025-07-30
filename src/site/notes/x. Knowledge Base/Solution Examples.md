@@ -25,16 +25,3 @@
 
 ## Pro Solutions
 
-- Solutions that are tailored to your specific workflow, and not just designed for the general public
-- “set up remote access for network devices such as printers, cameras, media servers, etc."
-- “configure custom domain, email address, and hosting”
-- “set up public endpoint for NAS to be accessible over the internet publicly, i.e. `nas.companyserver.com`, better for many-to-one data global transfers, rather than a pre-defined group of computers”
-- “automated syncing between two computers”
-- “customized file sharing access control”
-- “wireguard configuration without using Tailscale”
-- “custom scripts/automation based on client needs”
-- configure livestreaming
-- consultation regarding network topology
-- **Client delivery optimization** (hosted review sites, fast FTP alternatives)
-- connect domains to various services you may already be using that offer support for it to enable better branding (i.e. customer portals)
-- And more!
