@@ -3,14 +3,15 @@
 ---
 
 # Our (Not Comprehensive) List of Services
-## General areas of focus
 
-- Data Loss Prevention
-- Access & Collaboration
-- Storage Efficiency
-- Workflow Security
+> [!info] General areas of focus
+> 
+> - Data Loss Prevention
+> - Access & Collaboration
+> - Storage Efficiency
+> - Workflow Security
 
-## Standard Solutions
+## We can...
 
 - “set up NAS so you own your own data”
 - “consultation regarding basic cyber hygiene”
@@ -22,6 +23,3 @@
 - "protection against power loss" (remember to also put your modem and router on the UPS)
 - “set up shared network drives with access over the internet”
 - And more!
-
-## Pro Solutions
-
