@@ -12,4 +12,4 @@ That way, if your main device dies, your external drive fails, or a disaster str
 
 3-2-1 isn’t overkill, and it's actually **the bare minimum** for real data protection. Yet too people rely on a single hard drive or basic cloud storage and think they’re covered, not realizing they're taking on the risk of drive failure or account lockout. Buying extra drives hurts, but losing data hurts more.
 
-The 3-2-1 backup system is the standard for a reason, and if you don't already have it in place, [[1. About Our Service/1.1 Intro\|now's a great time to address it]].
+The 3-2-1 backup system is the standard for a reason, and if you don't already have it in place, [[1. About Our Service/1.2 Plans and Pricing\|now's a great time to address it]].
