@@ -12,10 +12,12 @@
 | **RAID 5**        | 3               | 1 drive can fail                                                     | (n-1)/n (\~67%-94%)       | Good reads, slower writes (parity calc)                   | General storage where capacity and redundancy matter |
 | **RAID 6**        | 4               | 2 drives can fail                                                    | (n-2)/n (\~50%-88%)       | Good reads, slower writes than RAID 5 (extra parity calc) | Larger arrays needing higher fault tolerance         |
 
-> [!summary]
+> [!tip] Extra tips
 > 
-> **RAID 0, 5, and 6:** Fault tolerance is fixed by design (0, 1, or 2 drives) and doesn’t improve by adding more disks.
+> **RAID 0:** Zero fault tolerance. If one drive dies, ALL data is unreadable (because the data is striped).
 > 
-> **RAID 1:** Adding drives increases fault tolerance significantly (all but one can fail).
+> **RAID 5 and 6:** Fault tolerance is fixed (1 or 2 drives) and doesn’t improve by adding more disks.
 > 
-> **RAID 10:** Adding drives increases potential fault tolerance, but only if failures don’t hit all drives in the same mirrored set.
+> **RAID 1:** Adding drives increases fault tolerance significantly, since they're all mirrors (all drives but one can fail).
+> 
+> **RAID 10:** Adding drives increases fault tolerance, but the exact number of drives that can go down depends on which drives malfunction. Complete data loss can still occur if failure hits all drives in the same mirrored set.
